@@ -1,2 +1,2 @@
 # simulation-class
-[Simulaiton Site](https://hnu209.github.io/simulation-class/)
+[Simulaiton Site](https://github.com/tangrim/for-sumbit.git)
